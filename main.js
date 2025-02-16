@@ -9,11 +9,11 @@ const webPages = document.createElement("ul")
 
 
 const web_Pages = [
-    { name: "GitHub", url: "https://github.com" },
+    { name: "GitHub", url: "https://github.com/SunnatulloValiyev" },
     { name: "Frontend Mentor", url: "https://www.frontendmentor" },
-    { name: "LinkedIn", url: "https://linkedin.com" },
+    { name: "LinkedIn", url: "#" },
     { name: "Twitter", url: "https://twitter.com" },
-    { name: "Instagram", url: "https://instagram.com" }
+    { name: "Instagram", url: "https://instagram./valiyev.o17" }
 ];
 
 for (let i = 0; i < web_Pages.length; i++) {
